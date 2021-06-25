@@ -41,4 +41,5 @@ sudo systemctl restart apache2
 
 ### Check if both webservers are receiving GET requests
 > sudo tail -f /var/log/httpd/access_log
+
 ![](2021-06-25-10-50-12.png)
